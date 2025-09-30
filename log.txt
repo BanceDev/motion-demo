@@ -1,8 +1,52 @@
 WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
-I0000 00:00:1758823021.052664   56456 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
-I0000 00:00:1758823021.074572   56502 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.2.3-arch1.1), renderer: AMD Radeon 660M (radeonsi, rembrandt, LLVM 20.1.8, DRM 3.64, 6.16.7-arch1-1)
+I0000 00:00:1759255068.568700   17099 gl_context_egl.cc:85] Successfully initialized EGL. Major : 1 Minor: 5
+I0000 00:00:1759255068.590468   17148 gl_context.cc:369] GL version: 3.2 (OpenGL ES 3.2 Mesa 25.2.3-arch1.2), renderer: AMD Radeon 660M (radeonsi, rembrandt, LLVM 20.1.8, DRM 3.64, 6.16.8-arch3-1)
 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
-W0000 00:00:1758823021.124086   56503 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
-W0000 00:00:1758823021.146824   56508 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
-W0000 00:00:1758823021.180603   56514 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+W0000 00:00:1759255068.639942   17158 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1759255068.662293   17157 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1759255068.805937   17150 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
 qt.qpa.plugin: Could not find the Qt platform plugin "wayland" in "/home/lanceb/motion-demo/.venv/lib/python3.11/site-packages/cv2/qt/plugins"
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
+qt.qpa.wayland: Wayland does not support QWindow::requestActivate()
